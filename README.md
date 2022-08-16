@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**Korunk/Korunk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+My name is Klara and I'm interestning in HTML, CSS, Java Script and React. I want to learn more then that.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+😄 About me:
+
+- 🌱 I’m currently learning HTML, CSS, Java Script and React.
+
+- 🧡 I’m looking for a new job.
+
+- 📫 How to reach me: klara.chmelarova@atlas.cz
+
+
